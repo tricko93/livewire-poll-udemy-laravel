@@ -1,4 +1,4 @@
-# Event Management
+# Livewire Poll
 
 ## Project Description
 
@@ -64,7 +64,7 @@ Run the application using PHP Artisan.
 	php artisan key:generate
 
 	# Run the database migrations
-	php artisan migrate --seed
+	php artisan migrate
 
 	# Run the application
 	php artisan serve
